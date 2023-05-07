@@ -1,0 +1,27 @@
+{
+  "name": "dashboard",
+  "version": "1.0.0",
+  "description": "Ucamp project",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Romanfernando2003/Ucamp_Dashboard.git"
+  },
+  "keywords": [
+    "dashboard",
+    "Ucamp",
+    "Nodejs"
+  ],
+  "author": "Roman Maldonado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Romanfernando2003/Ucamp_Dashboard/issues"
+  },
+  "homepage": "https://github.com/Romanfernando2003/Ucamp_Dashboard#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
